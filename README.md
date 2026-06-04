@@ -1,4 +1,4 @@
-# UAV Satellite Dataset Builder
+# UAV Satellite Retrieval Dataset Builder
 
 Create UAV-to-satellite retrieval dataset manifests from large GeoTIFF satellite
 images and UAV frame coordinates.
