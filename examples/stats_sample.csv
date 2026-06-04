@@ -1,0 +1,2 @@
+num_queries,num_gallery_tiles,positives_per_query,num_pairs,num_unique_positive_tiles,mean_center_distance_m,median_center_distance_m,max_center_distance_m,rank1_mean_center_distance_m,rank4_mean_center_distance_m,missing_drone_images
+817,234,4,3268,212,209.71433616422843,216.9382823152071,425.2353805177469,114.47223310289648,281.6430076979372,0
